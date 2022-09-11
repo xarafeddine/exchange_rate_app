@@ -24,7 +24,7 @@ export function RateTable({ currencyData, amount }) {
       </tbody>
       <tfoot>
         <tr>
-          <td colSpan={2}>Prepared for {name}</td>
+          <td colSpan={2}>made by {name}</td>
         </tr>
       </tfoot>
     </table>
