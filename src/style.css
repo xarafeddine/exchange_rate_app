@@ -34,6 +34,12 @@ header {
   vertical-align: middle;
 }
 
+
+.ExchangeRate-section{
+  padding-top: 500px;
+}
+
+
 .ExchangeRate-table,
 .ExchangeRate-form {
   margin-left: auto;

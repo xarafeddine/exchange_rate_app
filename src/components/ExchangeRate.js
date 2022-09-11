@@ -39,7 +39,7 @@ export function ExchangeRate() {
 
   return (
     <>
-      <section>
+      <section className="ExchangeRate-section">
         <h1 className="ExchangeRate-header">
           Exchange Rates{" "}
           <CurrencyCodePicker
